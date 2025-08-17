@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "upload", "file", "filename", "filetype", "content-type", "mime",
+        "extension", "format", "type", "size", "length", "avatar",
+        "profile", "image", "photo", "document", "attachment", "media",
+        "asset", "resource", "binary", "data", "payload", "content"
+    ]
+}

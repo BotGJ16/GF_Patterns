@@ -1,0 +1,23 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "cmd",
+        "command", 
+        "exec",
+        "system",
+        "shell",
+        "run",
+        "process",
+        "script",
+        "code",
+        "evaluate",
+        "compile",
+        "execute",
+        "batch",
+        "job",
+        "task",
+        "worker",
+        "daemon",
+        "service"
+    ]
+}

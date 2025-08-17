@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "web3", "ethereum", "bitcoin", "blockchain", "smart_contract",
+        "metamask", "wallet", "private_key", "seed", "mnemonic", "address",
+        "transaction", "hash", "nft", "token", "defi", "dapp", "solidity",
+        "vyper", "truffle", "hardhat", "ganache", "infura", "alchemy"
+    ]
+}

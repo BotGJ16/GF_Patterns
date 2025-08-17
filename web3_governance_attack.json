@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "dao", "governance", "voting", "proposal", "snapshot", "aragon",
+        "colony", "moloch", "compound_governance", "maker_governance",
+        "delegate", "quorum", "threshold", "timelock", "multisig",
+        "gnosis_safe", "executor", "guardian", "admin", "owner"
+    ]
+}

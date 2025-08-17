@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "file", "path", "dir", "directory", "folder", "root", "document",
+        "include", "require", "import", "load", "read", "download", "upload",
+        "../", "..\\", "%2e%2e%2f", "%2e%2e\\", "etc/passwd", "boot.ini",
+        "web.config", "application.properties", ".env", "config", "settings"
+    ]
+}

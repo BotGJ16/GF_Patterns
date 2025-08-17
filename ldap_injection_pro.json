@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "ldap", "dn", "cn", "ou", "dc", "uid", "mail", "sn", "givenname",
+        "userpassword", "objectclass", "member", "memberof", "group",
+        "filter", "search", "bind", "authenticate", "directory", "ad",
+        "activedirectory", "openldap", "edirectory"
+    ]
+}

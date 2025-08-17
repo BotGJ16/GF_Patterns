@@ -1,0 +1,10 @@
+{
+    "flags": "-iE", 
+    "patterns": [
+        "template", "tmpl", "view", "render", "compile", "execute", "eval",
+        "expression", "formula", "calc", "math", "format", "layout", "theme",
+        "skin", "style", "twig", "jinja", "mustache", "handlebars", "velocity",
+        "freemarker", "smarty", "django", "flask", "blade", "razor", "thymeleaf",
+        "erb", "haml", "jade", "pug", "ejs", "nunjucks", "liquid"
+    ]
+}

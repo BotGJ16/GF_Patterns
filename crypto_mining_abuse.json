@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "mining", "miner", "hashrate", "pool", "stratum", "worker",
+        "coinhive", "cryptonight", "monero", "zcash", "ethereum",
+        "bitcoin", "litecoin", "dogecoin", "cpu", "gpu", "asic",
+        "difficulty", "nonce", "share", "reward", "block", "coinbase"
+    ]
+}

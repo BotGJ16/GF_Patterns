@@ -1,0 +1,10 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "cmd", "command", "exec", "system", "shell", "run", "process", "script",
+        "code", "evaluate", "compile", "execute", "batch", "job", "task", "worker",
+        "daemon", "service", "spawn", "fork", "pipe", "proc", "binary", "exe",
+        "bash", "sh", "powershell", "php", "python", "perl", "ruby", "node",
+        "java", "dotnet", "c#", "vbs", "bat", "ps1", "jsp", "asp"
+    ]
+}

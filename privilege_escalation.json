@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "sudo", "su", "setuid", "setgid", "chmod", "chown", "privilege",
+        "escalate", "elevation", "admin", "root", "administrator", "wheel",
+        "superuser", "elevated", "impersonate", "runas", "exec", "spawn"
+    ]
+}

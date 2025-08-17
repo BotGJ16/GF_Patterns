@@ -1,0 +1,26 @@
+{
+    "name": "deserialization_payloads",
+    "description": "Common dangerous deserialization terms and payloads",
+    "flags": "-iE",
+    "patterns": [
+        "__destruct",
+        "__wakeup",
+        "__call",
+        "__callstatic",
+        "__tostring",
+        "__sleep",
+        "__unserialize",
+        "__serialize",
+        "__set",
+        "__get",
+        "__isset",
+        "unserialize",
+        "serialize",
+        "pack",
+        "unpack",
+        "pickle",
+        "unpickle",
+        "pop",
+        "push"
+    ]
+}

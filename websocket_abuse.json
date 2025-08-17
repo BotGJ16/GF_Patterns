@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "websocket", "ws", "wss", "socket.io", "sockjs", "upgrade",
+        "connection", "handshake", "frame", "ping", "pong", "close",
+        "binary", "text", "masked", "origin", "protocol", "extension"
+    ]
+}

@@ -62,7 +62,7 @@ cat urls.txt | gf web3_smartcontract_vuln > smartcontract_findings.txt
 
 Run full automation for all patterns (see `scripts/ultimate_hunt.sh`):
 ```
-bash scripts/ultimate_hunt.sh domain.com
+bash ultimate_hunt.sh domain.com
 ```
 
 ---
@@ -103,7 +103,7 @@ GF_Patterns/scripts/ultimate_hunt.sh
 
 Make it executable:
 ```bash
-chmod +x GF_Patterns/scripts/ultimate_hunt.sh
+chmod +x ultimate_hunt.sh
 ```
 
 ***
@@ -112,7 +112,7 @@ chmod +x GF_Patterns/scripts/ultimate_hunt.sh
 
 Syntax:
 ```bash
-bash GF_Patterns/scripts/ultimate_hunt.sh target.com
+bash ultimate_hunt.sh target.com
 ```
 - `target.com` : Replace this with the domain or target you want to scan.
 

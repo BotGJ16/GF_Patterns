@@ -1,0 +1,10 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "url", "uri", "link", "href", "src", "target", "destination", "endpoint",
+        "callback", "webhook", "api", "service", "resource", "fetch", "request",
+        "proxy", "forward", "redirect", "import", "include", "load", "get", "post",
+        "put", "patch", "delete", "curl", "wget", "http", "https", "ftp", "file",
+        "gopher", "dict", "ldap", "sftp", "tftp", "jar", "netdoc", "mailto"
+    ]
+}

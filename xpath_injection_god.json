@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "xpath", "xml", "node", "element", "attribute", "text", "position",
+        "count", "contains", "starts-with", "substring", "normalize-space",
+        "translate", "concat", "string-length", "boolean", "number",
+        "floor", "ceiling", "round", "sum", "name", "local-name"
+    ]
+}

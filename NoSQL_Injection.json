@@ -1,0 +1,17 @@
+{
+    "flags": "-iE", 
+    "patterns": [
+        "mongo",
+        "redis",
+        "elasticsearch",
+        "couchdb",
+        "cassandra",
+        "json",
+        "bson", 
+        "search",
+        "filter",
+        "match",
+        "aggregate",
+        "pipeline"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "docker", "kubernetes", "k8s", "container", "pod", "namespace",
+        "deployment", "service", "ingress", "configmap", "secret", "volume",
+        "mount", "bind", "privileged", "capabilities", "seccomp", "apparmor",
+        "selinux", "cgroup", "containerd", "runc", "cri-o"
+    ]
+}

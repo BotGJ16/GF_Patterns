@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "session", "sessionid", "jsessionid", "phpsessid", "asp.net_sessionid",
+        "cookie", "fixation", "hijacking", "replay", "csrf", "token",
+        "nonce", "state", "anti-csrf", "xsrf", "samesite", "httponly", "secure"
+    ]
+}

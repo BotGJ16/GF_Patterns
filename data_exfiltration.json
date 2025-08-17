@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "ftp", "sftp", "scp", "rsync", "wget", "curl", "http", "https",
+        "dns", "icmp", "smtp", "email", "cloud", "s3", "dropbox", "gdrive",
+        "onedrive", "pastebin", "github", "gitlab", "bitbucket", "discord"
+    ]
+}

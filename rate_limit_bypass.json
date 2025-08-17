@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "x-forwarded-for", "x-real-ip", "x-originating-ip", "x-remote-ip",
+        "x-remote-addr", "x-client-ip", "client-ip", "true-client-ip",
+        "cf-connecting-ip", "x-cluster-client-ip", "fastly-client-ip",
+        "x-forwarded", "forwarded-for", "forwarded", "via", "proxy"
+    ]
+}

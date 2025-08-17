@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "redirect", "forward", "location", "href", "goto", "next", "continue",
+        "return", "returnurl", "dest", "destination", "target", "page",
+        "link", "url", "uri", "path", "site", "domain", "host", "referer"
+    ]
+}

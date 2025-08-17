@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "winrm", "psexec", "wmiexec", "smbexec", "rdp", "ssh", "telnet",
+        "rsh", "rlogin", "pivot", "tunnel", "proxy", "forward", "jump",
+        "hop", "beacon", "c2", "command_control", "backdoor", "persistence"
+    ]
+}

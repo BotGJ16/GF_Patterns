@@ -1,0 +1,21 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "price",
+        "amount",
+        "quantity",
+        "discount",
+        "coupon",
+        "promo",
+        "balance",
+        "credit",
+        "payment",
+        "currency",
+        "rate",
+        "limit",
+        "max",
+        "min",
+        "threshold",
+        "quota"
+    ]
+}

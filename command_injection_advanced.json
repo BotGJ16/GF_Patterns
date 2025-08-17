@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "ping", "nslookup", "dig", "wget", "curl", "nc", "netcat",
+        "telnet", "ssh", "ftp", "scp", "rsync", "tar", "zip", "unzip",
+        "grep", "awk", "sed", "cut", "sort", "head", "tail", "cat",
+        "echo", "printf", "whoami", "id", "uname", "ps", "netstat"
+    ]
+}

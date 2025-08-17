@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "uniswap", "compound", "aave", "makerdao", "curve", "balancer",
+        "yearn", "sushiswap", "pancakeswap", "1inch", "synthetix",
+        "lending", "borrowing", "collateral", "liquidation", "impermanent_loss",
+        "slippage", "frontrun", "mev", "sandwich", "flashloan_attack"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "serialize", "deserialize", "unserialize", "pickle", "unpickle", "marshal",
+        "unmarshal", "encode", "decode", "object", "data", "payload", "stream",
+        "binary", "base64", "json", "xml", "yaml", "protobuf", "msgpack", "avro",
+        "thrift", "cbor", "bson", "java", "php", "python", "ruby", "dotnet"
+    ]
+}

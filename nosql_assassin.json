@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "mongo", "mongodb", "redis", "elasticsearch", "couchdb", "cassandra",
+        "dynamodb", "firebase", "json", "bson", "search", "filter", "match",
+        "aggregate", "pipeline", "$where", "$ne", "$in", "$nin", "$regex",
+        "$gt", "$lt", "$gte", "$lte", "$exists", "$type", "$size", "$all"
+    ]
+}

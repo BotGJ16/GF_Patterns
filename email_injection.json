@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "email", "mail", "smtp", "sendmail", "from", "to", "cc", "bcc",
+        "subject", "body", "header", "injection", "crlf", "newline",
+        "x-mailer", "content-type", "mime", "boundary", "attachment"
+    ]
+}

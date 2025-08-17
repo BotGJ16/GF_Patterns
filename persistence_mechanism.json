@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "cron", "crontab", "systemd", "service", "startup", "autorun",
+        "registry", "scheduled", "task", "job", "daemon", "init", "rc",
+        "bashrc", "profile", "login", "logout", "session", "boot", "startup"
+    ]
+}

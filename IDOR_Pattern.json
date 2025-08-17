@@ -1,0 +1,26 @@
+{
+    "flags": "-iE", 
+    "patterns": [
+        "user_id",
+        "uid",
+        "account_id",
+        "profile_id",
+        "member_id",
+        "customer_id", 
+        "client_id",
+        "tenant_id",
+        "org_id",
+        "company_id",
+        "group_id",
+        "team_id",
+        "project_id",
+        "order_id",
+        "invoice_id",
+        "ticket_id",
+        "report_id",
+        "document_id",
+        "file_id",
+        "media_id",
+        "attachment_id"
+    ]
+}

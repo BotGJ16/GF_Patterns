@@ -81,13 +81,7 @@ bash scripts/ultimate_hunt.sh domain.com
 
 ```
 GF_Patterns/
-├── web-application/
-├── infrastructure/
-├── cloud-security/
-├── web3-crypto/
-├── specialized/
-└── scripts/
-    └── ultimate_hunt.sh
+
 ```
 ## **How to Use the Ultimate 58-Pattern Security Hunter Script**
 

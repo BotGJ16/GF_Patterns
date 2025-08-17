@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "npm", "package.json", "node_modules", "composer.json", "vendor",
+        "requirements.txt", "pip", "maven", "gradle", "pom.xml", "yarn.lock",
+        "pipfile", "gemfile", "cargo.toml", "go.mod", "bower.json", 
+        "third-party", "dependency", "library", "framework", "plugin"
+    ]
+}

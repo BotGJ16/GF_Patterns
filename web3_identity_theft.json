@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "ens", "unstoppable", "handshake", "did", "verifiable_credential",
+        "metamask", "walletconnect", "coinbase_wallet", "trust_wallet",
+        "phantom", "solflare", "connect", "disconnect", "signature",
+        "personal_sign", "eth_sign", "typed_data", "eip712", "siwe"
+    ]
+}

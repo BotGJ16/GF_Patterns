@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "md5", "sha1", "des", "3des", "rc4", "weak", "deprecated",
+        "insecure", "random", "entropy", "seed", "salt", "hash",
+        "cipher", "algorithm", "key", "iv", "nonce", "padding",
+        "aes", "rsa", "ecdsa", "dh", "ecdh", "certificate", "signature"
+    ]
+}

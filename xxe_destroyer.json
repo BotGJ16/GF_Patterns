@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "xml", "doctype", "entity", "external", "system", "public", "file",
+        "upload", "import", "parse", "process", "validate", "schema", "dtd",
+        "xsd", "soap", "wsdl", "rss", "atom", "svg", "pdf", "doc", "xlsx"
+    ]
+}

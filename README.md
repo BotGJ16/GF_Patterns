@@ -89,7 +89,98 @@ GF_Patterns/
 └── scripts/
     └── ultimate_hunt.sh
 ```
+## **How to Use the Ultimate 58-Pattern Security Hunter Script**
 
+### **Prerequisites**
+
+1. **Linux system** (recommended: Ubuntu/Kali/Parrot or WSL on Windows)
+2. **Tools installed:**
+   - `gf` (pattern matcher)  
+   - `anew` (deduplication utility; install with `go install github.com/tomnomnom/anew@latest`)
+   - `subfinder`, `httpx`, `gau`, `waybackurls`, `katana` (install via Go or package manager)
+   - All **58 JSON patterns** in your `~/.gf/` directory
+
+### **Step 1: Save Script As File**
+
+Save the provided script in your repository, e.g.
+```
+GF_Patterns/scripts/ultimate_hunt.sh
+```
+
+Make it executable:
+```bash
+chmod +x GF_Patterns/scripts/ultimate_hunt.sh
+```
+
+***
+
+### **Step 2: Run the Script**
+
+Syntax:
+```bash
+bash GF_Patterns/scripts/ultimate_hunt.sh target.com
+```
+- `target.com` : Replace this with the domain or target you want to scan.
+
+***
+
+### **Step 3: Understanding Script Workflow**
+
+- **Recon Phase**: Discovers URLs (using subfinder, httpx, gau, waybackurls, katana).
+- **Enumerate All 58 Patterns**: Loops over all patterns & matches using `gf`.
+- **Deduplication**: Uses `anew` to ensure unique results per pattern.
+- **Validation**: Checks hits with `httpx` for HTTP responses and outputs up to 20 valid URLs per pattern.
+- **Intelligence Report Generation**: Summarizes findings per pattern and saves results.
+- **Output Directory**: All results saved in a timestamped directory (e.g. `elite_hunt_20250817_170200`).
+
+***
+
+### **Step 4: Read Your Results**
+
+- Each pattern will have its own findings file, e.g. `elite_advanced_pattern_results.txt`.
+- Critical issues per pattern stored as, e.g. `critical_elite_advanced_pattern.txt`.
+- Full intelligence summary in `elite_report.txt`.
+
+***
+
+### **Step 5: Typical Usage Commands**
+
+```bash
+# To list all detected endpoints by SSRF pattern
+cat master_ssrf_bypass_results.txt
+
+# To see critical validated URLs for SQLi
+cat critical_sqli_results.txt
+
+# To check your summary report
+cat elite_report.txt
+```
+
+***
+
+### **Best Practices**
+
+- Always verify results with manual testing after automated scan.
+- Update your tools & patterns regularly for better detection.
+- Use in combination with other bug bounty and red team frameworks.
+
+***
+
+## **Troubleshooting**
+
+- If any tool missing, install via Go:
+  - `go install github.com/tomnomnom/gf@latest`
+  - `go install github.com/tomnomnom/anew@latest`
+- GF patterns must be available in `~/.gf/`
+- For large scans, ensure system resources are sufficient.
+
+***
+
+## **Professional Automation**
+
+Is script ka use karke aap apni recon workflow ko enterprise, pentest, ya bug bounty level tak le ja sakte ho — **maximum coverage, minimal effort**!
+
+***
 ---
 
 ## License

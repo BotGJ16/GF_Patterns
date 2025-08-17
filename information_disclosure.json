@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "error", "exception", "stack_trace", "debug", "verbose", "info",
+        "leak", "disclosure", "exposure", "backup", "config", "settings",
+        "environment", "env", "development", "test", "staging", "prod",
+        "version", "build", "commit", "git", "svn", "internal", "private"
+    ]
+}

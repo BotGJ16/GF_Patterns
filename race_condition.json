@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "race", "condition", "concurrent", "parallel", "thread", "async",
+        "sync", "lock", "mutex", "semaphore", "atomic", "volatile", "critical",
+        "section", "deadlock", "livelock", "starvation", "time", "timing",
+        "toctou", "check_use", "double_fetch"
+    ]
+}

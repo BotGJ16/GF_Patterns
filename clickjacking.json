@@ -1,0 +1,15 @@
+{
+    "name": "clickjacking",
+    "description": "Clickjacking potential points",
+    "flags": "-iE",
+    "patterns": [
+        "frame",
+        "iframe",
+        "frameborder",
+        "x-frame-options",
+        "content-security-policy",
+        "csp",
+        "sandbox",
+        "allowfullscreen"
+    ]
+}

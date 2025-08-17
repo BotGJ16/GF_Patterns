@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "aws", "azure", "gcp", "s3", "ec2", "lambda", "cloudformation",
+        "terraform", "ansible", "iam", "role", "policy", "bucket", "blob",
+        "storage", "compute", "function", "api_key", "access_key", "secret_key",
+        "tenant", "subscription", "resource_group", "vpc", "security_group"
+    ]
+}

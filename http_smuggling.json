@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "content-length", "transfer-encoding", "chunked", "smuggling",
+        "cl.te", "te.cl", "te.te", "cl.cl", "connection", "keep-alive",
+        "proxy", "load_balancer", "cdn", "cache", "backend", "frontend"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "sleep", "delay", "timeout", "time", "benchmark", "waitfor",
+        "pg_sleep", "dbms_pipe", "response_time", "timing", "blind",
+        "boolean", "error", "union", "order_by", "group_by", "having"
+    ]
+}

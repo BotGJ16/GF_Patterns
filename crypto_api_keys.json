@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "api_key", "secret_key", "access_token", "private_key", "public_key",
+        "binance", "coinbase", "kraken", "bitfinex", "huobi", "okex",
+        "bybit", "kucoin", "gate.io", "gemini", "bitstamp", "coincheck",
+        "bitflyer", "poloniex", "hitbtc", "bittrex", "cex.io"
+    ]
+}

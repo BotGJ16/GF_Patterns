@@ -1,0 +1,10 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "price", "amount", "quantity", "discount", "coupon", "promo", "balance",
+        "credit", "payment", "currency", "rate", "limit", "max", "min", "threshold",
+        "quota", "budget", "cost", "fee", "charge", "billing", "invoice", "tax",
+        "total", "subtotal", "shipping", "handling", "processing", "transaction",
+        "purchase", "order", "checkout", "cart", "basket", "wallet", "account"
+    ]
+}

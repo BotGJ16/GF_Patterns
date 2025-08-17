@@ -1,10 +1,10 @@
 {
     "flags": "-iE",
     "patterns": [
-        "price", "amount", "quantity", "discount", "coupon", "promo", "balance",
-        "credit", "payment", "currency", "rate", "limit", "max", "min", "threshold",
-        "quota", "budget", "cost", "fee", "charge", "billing", "invoice", "tax",
-        "total", "subtotal", "shipping", "handling", "processing", "transaction",
-        "purchase", "order", "checkout", "cart", "basket", "wallet", "account"
+        "jwt", "token", "auth", "bearer", "session", "cookie", "api_key",
+        "access_token", "refresh_token", "secret", "signature", "payload", "claim",
+        "user", "role", "permission", "admin", "privilege", "scope", "grant",
+        "oauth", "saml", "openid", "ldap", "sso", "2fa", "mfa", "totp", "hotp",
+        "authorization", "authentication", "identity", "principal", "subject"
     ]
 }

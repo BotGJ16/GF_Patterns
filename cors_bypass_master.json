@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "cors", "origin", "access-control", "allow-origin", "allow-credentials",
+        "allow-methods", "allow-headers", "expose-headers", "max-age",
+        "vary", "credentials", "withcredentials", "crossdomain", "jsonp",
+        "callback", "cross-origin", "same-origin", "cross-site"
+    ]
+}

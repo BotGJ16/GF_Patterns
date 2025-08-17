@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "buffer", "overflow", "underflow", "stack", "heap", "memory",
+        "corruption", "smash", "overwrite", "rop", "jop", "ret2libc",
+        "shellcode", "gadget", "canary", "aslr", "dep", "nx", "pie",
+        "format_string", "use_after_free", "double_free", "null_pointer"
+    ]
+}

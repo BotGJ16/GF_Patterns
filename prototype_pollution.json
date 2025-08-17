@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "prototype", "__proto__", "constructor", "hasownproperty", "valueof",
+        "tostring", "merge", "extend", "clone", "assign", "mixin", "pollute",
+        "javascript", "js", "node", "npm", "package", "module", "require"
+    ]
+}

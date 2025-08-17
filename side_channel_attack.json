@@ -1,0 +1,8 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "timing", "cache", "power", "electromagnetic", "acoustic", "side_channel",
+        "spectre", "meltdown", "rowhammer", "cold_boot", "van_eck", "tempest",
+        "differential", "simple", "correlation", "mutual_information", "leakage"
+    ]
+}

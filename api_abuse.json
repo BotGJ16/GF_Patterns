@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "api", "rest", "soap", "graphql", "json", "xml", "endpoint",
+        "method", "parameter", "query", "mutation", "subscription",
+        "rate_limit", "throttle", "quota", "abuse", "enumeration",
+        "brute_force", "credential", "key", "secret", "signature"
+    ]
+}

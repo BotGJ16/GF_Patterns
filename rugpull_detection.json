@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "rugpull", "exit_scam", "honeypot", "scam", "fake_token",
+        "liquidity_lock", "ownership", "renounce", "blacklist", "whitelist",
+        "tax", "reflection", "burn", "mint", "supply", "total_supply",
+        "max_transaction", "cooldown", "anti_whale", "dump_protection"
+    ]
+}

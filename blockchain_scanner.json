@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "etherscan", "bscscan", "polygonscan", "ftmscan", "arbiscan",
+        "snowtrace", "moonscan", "blockscout", "explorer", "scanner",
+        "transaction", "txhash", "blockhash", "address", "contract",
+        "token", "balance", "transfers", "logs", "events", "trace"
+    ]
+}

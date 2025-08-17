@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "firmware", "bios", "uefi", "bootloader", "microcode", "embedded",
+        "iot", "hardware", "chip", "processor", "controller", "sensor",
+        "actuator", "peripheral", "interface", "protocol", "bus", "spi",
+        "i2c", "uart", "jtag", "swd", "debug", "backdoor"
+    ]
+}

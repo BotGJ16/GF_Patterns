@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "v1", "v2", "v3", "version", "api_version", "app_version",
+        "accept-version", "x-api-version", "x-version", "ver", "rev",
+        "release", "build", "beta", "alpha", "rc", "dev", "test",
+        "staging", "prod", "production", "legacy", "deprecated"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "query",
+        "mutation",
+        "subscription",
+        "graphql",
+        "schema",
+        "introspection",
+        "fragment",
+        "variable",
+        "operation",
+        "resolver"
+    ]
+}

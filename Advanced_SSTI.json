@@ -1,0 +1,21 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "template",
+        "tmpl", 
+        "view",
+        "render",
+        "compile",
+        "execute",
+        "eval",
+        "expression",
+        "formula",
+        "calc",
+        "math",
+        "format",
+        "layout",
+        "theme",
+        "skin",
+        "style"
+    ]
+}

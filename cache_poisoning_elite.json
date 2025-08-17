@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "cache", "cdn", "proxy", "varnish", "redis", "memcache", "cloudflare",
+        "akamai", "fastly", "cloudfront", "cache-control", "etag", "expires",
+        "last-modified", "if-none-match", "if-modified-since", "pragma",
+        "vary", "age", "max-age", "s-maxage", "must-revalidate"
+    ]
+}

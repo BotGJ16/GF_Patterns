@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "query", "mutation", "subscription", "graphql", "schema", "introspection",
+        "fragment", "variable", "operation", "resolver", "type", "field", "arg",
+        "directive", "interface", "union", "enum", "scalar", "input", "output",
+        "__schema", "__type", "__typename", "__field", "__inputvalue", "__enumvalue"
+    ]
+}

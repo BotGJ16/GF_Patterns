@@ -1,0 +1,9 @@
+{
+    "flags": "-iE",
+    "patterns": [
+        "host", "server_name", "http_host", "x-forwarded-host", "x-host",
+        "x-forwarded-server", "x-original-host", "forwarded", "via",
+        "x-real-ip", "x-forwarded-for", "x-forwarded-proto", "x-scheme",
+        "referer", "origin", "authority", "target", "destination"
+    ]
+}

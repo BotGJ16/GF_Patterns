@@ -148,38 +148,6 @@ chmod +x scripts/ultimate_hunt.sh
 
 ---
 
-## 📁 Repository Structure
-
-```
-GF_Patterns/
-├── web-application/
-│   ├── xss.json
-│   ├── sqli.json
-│   ├── ssrf.json
-│   └── ...
-├── infrastructure/
-│   ├── privilege_escalation.json
-│   ├── lateral_movement.json
-│   └── ...
-├── cloud-security/
-│   ├── container_escape.json
-│   ├── cloud_misconfig.json
-│   └── ...
-├── web3-crypto/
-│   ├── smartcontract_vuln.json
-│   ├── wallet_leaks.json
-│   └── ...
-├── specialized/
-│   ├── zero_day.json
-│   ├── iot_vulns.json
-│   └── ...
-├── scripts/
-│   ├── ultimate_hunt.sh
-│   └── automation_tools/
-└── README.md
-```
-
----
 
 ## 🛡️ Security Best Practices
 

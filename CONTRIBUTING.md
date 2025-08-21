@@ -143,23 +143,6 @@ time cat large_urls.txt | gf your_pattern_name > /dev/null
 
 ---
 
-## 📁 File Organization
-
-### Pattern Location
-```
-GF_Patterns/
-├── web-application/
-│   └── your_pattern.json
-├── infrastructure/
-│   └── your_pattern.json
-├── cloud-security/
-│   └── your_pattern.json
-├── web3-crypto/
-│   └── your_pattern.json
-└── specialized/
-    └── your_pattern.json
-```
-
 ### Required Files
 - **Pattern file** (`your_pattern.json`)
 - **Documentation** (README updates)

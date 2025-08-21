@@ -383,14 +383,14 @@ docker volume prune -f
 
 ### Getting Help
 - **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/your-repo/Gf-Patterns/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-repo/Gf-Patterns/discussions)
-- **Wiki**: [GitHub Wiki](https://github.com/your-repo/Gf-Patterns/wiki)
+- **Issues**: [GitHub Issues](https://github.com/BotGJ16)
+- **Discussions**: [GitHub Discussions]()
+- **Wiki**: [GitHub Wiki]()
 
 ### Community
-- **Discord**: [Join our Discord](https://discord.gg/gf-patterns)
-- **Twitter**: [@GFPatterns](https://twitter.com/GFPatterns)
-- **LinkedIn**: [GF Patterns](https://linkedin.com/company/gf-patterns)
+- **Discord**: [Join our Discord]()
+- **Twitter**: [@GFPatterns](https://x.com/Mahmadisha_786)
+- **LinkedIn**: [GF Patterns](https://www.linkedin.com/in/mohammadisha-shaikh-2297a5240/)
 
 ---
 

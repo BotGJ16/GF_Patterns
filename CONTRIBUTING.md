@@ -255,7 +255,6 @@ Update: [Pattern Name] - [Enhancement Description]
 
 ### Security Issues
 For security-related issues:
-- **Email**: security@gf-patterns.com
 - **Use GitHub Security Advisories**
 - **Provide detailed reproduction steps**
 

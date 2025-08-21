@@ -13,8 +13,8 @@ Thank you for helping keep **GF Patterns** secure! This document outlines our se
 ## 🚨 Reporting Security Vulnerabilities
 
 ### 📧 Contact Methods
-- **Primary**: [security@gf-patterns.com](mailto:security@gf-patterns.com)
-- **GitHub**: [Security Advisories](https://github.com/tt860480-netizen/GF_Patterns/security/advisories)
+- **Primary**: 
+- **GitHub**: 
 - **Encrypted**: Use our [PGP key](#pgp-key) for sensitive reports
 
 ### 📊 Report Format
@@ -67,11 +67,6 @@ All patterns are reviewed for:
 - **Assessment**: Within 72 hours
 - **Resolution**: Within 7-14 days
 - **Disclosure**: Coordinated disclosure
-
-### 📞 Emergency Contacts
-- **Critical vulnerabilities**: security@gf-patterns.com
-- **Pattern misuse**: abuse@gf-patterns.com
-- **Legal inquiries**: legal@gf-patterns.com
 
 ---
 
@@ -158,22 +153,6 @@ mQINBGaBcCwBEADVLrVZz2rMh3+8xP0R6XHgQ5XcX5K8v9L3mN2P7qR8sT1uV4w
 - **Ethical hacking** courses
 - **Legal compliance** training
 - **Responsible disclosure** workshops
-
----
-
-## 📞 Contact & Support
-
-### 💬 Security Channels
-- **Email**: security@gf-patterns.com
-- **GitHub**: Security tab
-- **Discord**: [Security channel](https://discord.gg/gf-patterns)
-- **Twitter**: [@GFPatterns](https://twitter.com/GFPatterns)
-
-### 🆘 Emergency Response
-For **active security incidents**:
-1. **Immediate**: security@gf-patterns.com
-2. **GitHub**: Create security advisory
-3. **Phone**: [Emergency contact number]
 
 ---
 

@@ -318,12 +318,12 @@ Top contributors will be featured in:
 #### Community Channels
 - **GitHub Issues**: Bug reports and feature requests
 - **Discussions**: General questions and ideas
-- **Security**: security@gf-patterns.com
+- **Security**: 
 
 #### Resources
-- [Pattern Development Guide](PATTERN_DEVELOPMENT.md)
-- [Testing Documentation](TESTING.md)
-- [Security Research Resources](SECURITY_RESOURCES.md)
+- [Pattern Development Guide]()
+- [Testing Documentation]()
+- [Security Research Resources]()
 
 ---
 
